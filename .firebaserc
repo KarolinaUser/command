@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "command-a1b61": {
+      "hosting": {
+        "command": [
+          "command-a1b61"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "command-a1b61"
+  }
+}
